@@ -1,4 +1,4 @@
-# Advance-Software-Engineering--CZ3002
+# Trip Planner Application
 Travelling mobile application prototype for advance software engineering project
 
 SDLC.

@@ -1,4 +1,4 @@
 # Trip Planner Application
-Travelling mobile application prototype for advance software engineering project
+Trip planning mobile application prototype for advance software engineering project
 
 SDLC.
